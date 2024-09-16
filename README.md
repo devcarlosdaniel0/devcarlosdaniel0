@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🗣️ I'm Carlos Daniel from Brazil<br>- 📚 I'm currently learning Java☕<br>- ⚡ In my free time I code</p>
+<p align="left">- 🗣️ I'm Carlos Daniel, a 16-year-old boy from Brazil<br>- 📚 I'm currently learning Java☕<br>- ⚡ In my free time I code</p>
 
 ###
 
